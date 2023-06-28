@@ -15,7 +15,7 @@ Hacker'lara göre ihtiyaçlar hiyerarşisi veya ihtiyaçların varlığı biraz 
 
 Unutmadan Özgür Yazılımın dört temel özgürlüğünü anımsatayım : (0) programı çalıştırma, (1) kaynak kodunu kullanarak onu öğrenme ve değiştirme, (2) tamamen aynı kopyaları yeniden dağıtır, (3) değiştirilmiş sürümleri dağıtma. olarak var olan özgürlüklerdir. Buna denk düşen fikri ve maddi tüm eserlerin de buna tabi olacağını anlamak zor olmasa gerek.
 
-Bir hacker, işte bu özgürlükleri kendi bilgi alanında ihtiyaçlar nesnel var olmadan bile bir içgüdüsel dürtüyle kendi yeteneklerinin sınırlarını zorlayarak faydalı üretimler yapmak istemesiyle harekete geçer ve birşeyler "yapar". Ve yaptığı şeyi paylaşarak "bak ben bunu bunu yaptım" "bende bu var" gibi bir sosyalleşme sürecine girer.
+Bir hacker, işte bu özgürlükleri kendi bilgi alanında ihtiyaçları nesnel açıdan olmasa bile bir içgüdüsel dürtüyle kendi yeteneklerinin sınırlarını zorlayarak faydalı üretimler yapmak istemesiyle harekete geçer ve birşeyler "yapar". Ve yaptığı şeyi paylaşarak "bak ben bunu bunu yaptım" "bende bu var" gibi bir sosyalleşme sürecine girer.
 
 # "hacker yapar" "bozmaz"
 
