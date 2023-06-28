@@ -1,6 +1,7 @@
 # hacker kimdir ?
 
-Bu yazımızda hackerları inceleyeceğiz. Ancak konuyu biraz farklı başlatarak dolambaçlı bir yoldan anlatmayı tercih edeceğiz.
+Bu yazımızda hackerları inceleyeceğiz. Ancak konuyu biraz farklı başlatarak dolambaçlı bir yoldan anlatmayı tercih edeceğiz. Siz de hacker-ların birer şifre(parola)-kırıcı ve hatta sanal veri hırsızı olduğunu düşünenlerden misiniz? Eğer öyleyse size bir haberim var: Hayır bildiğiniz gibi değil! Şaşırdınız mı? O hâlde îzah etmeme müsâade edin...
+
 
 # İhtiyaçlar Doğrultusunda
 
@@ -20,7 +21,8 @@ Bir hacker, işte bu özgürlükleri kendi bilgi alanında ihtiyaçlar nesnel va
 
 Burada bir ayrım yapıp zıtlıklara işaret etmek istiyorum. Hacker kelimesinden anlaşılan anlamlardan birisi olan cracker yani şifre ( doğrusu parola ) kıran ve sistemlere sızıp o sistemlere zarar veren kişi anlamının yanlış olmasıdır.
 
-Bunu hayatında en ufak bir olumlama ve iyi bir üretim yapmamış, bunu insanlar arasında göstermemiş kişiler anlayamayabilir, en azından ilk fırsatta... Halbuki bir şarkı söylemek, bir yemek yapmak, yukarıda belirtildiği gibi çiçek ekebilmek için yoğurt kabını saksı olarak kullanmak, bir modifiyeci, düzenleyici, değiştirici akıl hep olumlu çağrışımlarla beraber anılır.
+
+Bunu hayatında bir kere bile en ufak bir olumlama ve iyi bir üretim yapmamış, bunu insanlar arasında göstermemiş kişiler anlayamayabilir. Halbuki bir şarkı söylemek, bir yemek yapmak, yukarıda belirtildiği gibi çiçek ekebilmek için yoğurt kabını saksı olarak kullanmak, bir modifiyeci, düzenleyici, değiştirici akıl hep olumlu çağrışımlarla beraber anılır.
 
 # Değil mi ama ?
 
