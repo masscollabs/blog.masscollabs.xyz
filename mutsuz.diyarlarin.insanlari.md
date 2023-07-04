@@ -1,6 +1,6 @@
 # Mutsuz diyarların insanları
 
-![Mutsuz Diyarların İnsanları](img/rainbowblast.png)
+![Mutsuz Diyarların İnsanları](img/rainbowblast.140x200.png)
 
 Mutsuz diyarların insanları ne yaşadıklarını bilirler ne yaşattıklarını. Onlar sadece mutsuzdurlar ve bunu söylemekten çekinmezler. İşe geç kalır işten geç çıkarlar. Ceza puanları kabardığından maaşlarından kesinti yapılır. Veya vakitsiz çalışmanın getirdiği huzursuzluk onları depresyona sokar. Yaşlanırlar erkenden. Evlenmek zorunda kalır üstüne bir de çocukları olur. Mutsuz anne babanın mutlu çocukları olamaz ki ! Mutsuzluk sanki genetik bir kalıtımla geçer soydan soya. Hem üzüntülüdürler hem de üzüldüğünün keyfindeliğindedirler.
 
