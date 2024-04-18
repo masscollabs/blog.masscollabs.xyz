@@ -14,7 +14,7 @@ Açıklık olmadan özgürlük anlamsız diyenlere ne demeli peki ? Evet ama aç
 
 Diğer türlü işine gelince kullan işine gelince kullanma çıkarcılığı pek de etik değil. Özellikle aklımda kalan ancak tanımını benim pek kabul etmediğim hacking konusuna geldiğimizde... Beyaz şapkalı hacker olup sonradan siyah yani çalma çırpma zarar verme tarafına geçirince ... yani işine geldiğinde kötülükler yapınca ... Bu elbette kabul edilemez. Etik olmayan bu ve sanırım bu yüzden Etik hacker deniyor. Bir değerler bütünlüğü olduğu için.
 
-Aldığım bir felsefe psikoloji dersine göre bir kişinin pek çok yeteneği ve özelliği olabilir bu yeteneklerin hepsi rakamsal değer olarak sıfır olarak gösterilir. Yani bir nevi puan tablosu gibi. Ancak söz konusu kişinin bir kişiliği varsa bu kişi örneğin 1000 olur ama kişiliği yoksa bir hiçtir yani sıfırdır. 1'ler ve 0'lardan ibaret olan bilşiim dünyasında biz de kendimizi buna göre tanımlayabiliriz. Yetenek mi yoksa kendi ve aynı ölçüde başkalarının özgürlüğüne saygı duyan bir kişilik mi ?
+Aldığım bir felsefe psikoloji dersine göre bir kişinin pek çok yeteneği ve özelliği olabilir bu yeteneklerin hepsi rakamsal değer olarak sıfır olarak gösterilir. Yani bir nevi puan tablosu gibi. Ancak söz konusu kişinin bir kişiliği varsa bu kişi örneğin 1000 olur ama kişiliği yoksa bir hiçtir yani sıfırdır. 1'ler ve 0'lardan ibaret olan bilişim dünyasında biz de kendimizi buna göre tanımlayabiliriz. Yetenek mi yoksa kendi ve aynı ölçüde başkalarının özgürlüğüne saygı duyan bir kişilik mi ?
 
 Tercih sizin !
 
